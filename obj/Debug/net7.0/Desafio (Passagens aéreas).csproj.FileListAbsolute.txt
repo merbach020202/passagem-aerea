@@ -1,0 +1,30 @@
+C:\Users\44850641822\Desktop\BackEnd\Funções\Exercicios\Desafio (Passagens aéreas)\bin\Debug\net7.0\Desafio (Passagens aéreas).exe
+C:\Users\44850641822\Desktop\BackEnd\Funções\Exercicios\Desafio (Passagens aéreas)\bin\Debug\net7.0\Desafio (Passagens aéreas).deps.json
+C:\Users\44850641822\Desktop\BackEnd\Funções\Exercicios\Desafio (Passagens aéreas)\bin\Debug\net7.0\Desafio (Passagens aéreas).runtimeconfig.json
+C:\Users\44850641822\Desktop\BackEnd\Funções\Exercicios\Desafio (Passagens aéreas)\bin\Debug\net7.0\Desafio (Passagens aéreas).dll
+C:\Users\44850641822\Desktop\BackEnd\Funções\Exercicios\Desafio (Passagens aéreas)\bin\Debug\net7.0\Desafio (Passagens aéreas).pdb
+C:\Users\44850641822\Desktop\BackEnd\Funções\Exercicios\Desafio (Passagens aéreas)\obj\Debug\net7.0\Desafio (Passagens aéreas).csproj.AssemblyReference.cache
+C:\Users\44850641822\Desktop\BackEnd\Funções\Exercicios\Desafio (Passagens aéreas)\obj\Debug\net7.0\Desafio (Passagens aéreas).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44850641822\Desktop\BackEnd\Funções\Exercicios\Desafio (Passagens aéreas)\obj\Debug\net7.0\Desafio (Passagens aéreas).AssemblyInfoInputs.cache
+C:\Users\44850641822\Desktop\BackEnd\Funções\Exercicios\Desafio (Passagens aéreas)\obj\Debug\net7.0\Desafio (Passagens aéreas).AssemblyInfo.cs
+C:\Users\44850641822\Desktop\BackEnd\Funções\Exercicios\Desafio (Passagens aéreas)\obj\Debug\net7.0\Desafio (Passagens aéreas).csproj.CoreCompileInputs.cache
+C:\Users\44850641822\Desktop\BackEnd\Funções\Exercicios\Desafio (Passagens aéreas)\obj\Debug\net7.0\Desafio (Passagens aéreas).dll
+C:\Users\44850641822\Desktop\BackEnd\Funções\Exercicios\Desafio (Passagens aéreas)\obj\Debug\net7.0\refint\Desafio (Passagens aéreas).dll
+C:\Users\44850641822\Desktop\BackEnd\Funções\Exercicios\Desafio (Passagens aéreas)\obj\Debug\net7.0\Desafio (Passagens aéreas).pdb
+C:\Users\44850641822\Desktop\BackEnd\Funções\Exercicios\Desafio (Passagens aéreas)\obj\Debug\net7.0\Desafio (Passagens aéreas).genruntimeconfig.cache
+C:\Users\44850641822\Desktop\BackEnd\Funções\Exercicios\Desafio (Passagens aéreas)\obj\Debug\net7.0\ref\Desafio (Passagens aéreas).dll
+C:\Users\44850641822\Desktop\BackEnd\Projeto - Passagens aéreas\bin\Debug\net7.0\Desafio (Passagens aéreas).exe
+C:\Users\44850641822\Desktop\BackEnd\Projeto - Passagens aéreas\bin\Debug\net7.0\Desafio (Passagens aéreas).deps.json
+C:\Users\44850641822\Desktop\BackEnd\Projeto - Passagens aéreas\bin\Debug\net7.0\Desafio (Passagens aéreas).runtimeconfig.json
+C:\Users\44850641822\Desktop\BackEnd\Projeto - Passagens aéreas\bin\Debug\net7.0\Desafio (Passagens aéreas).dll
+C:\Users\44850641822\Desktop\BackEnd\Projeto - Passagens aéreas\bin\Debug\net7.0\Desafio (Passagens aéreas).pdb
+C:\Users\44850641822\Desktop\BackEnd\Projeto - Passagens aéreas\obj\Debug\net7.0\Desafio (Passagens aéreas).csproj.AssemblyReference.cache
+C:\Users\44850641822\Desktop\BackEnd\Projeto - Passagens aéreas\obj\Debug\net7.0\Desafio (Passagens aéreas).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44850641822\Desktop\BackEnd\Projeto - Passagens aéreas\obj\Debug\net7.0\Desafio (Passagens aéreas).AssemblyInfoInputs.cache
+C:\Users\44850641822\Desktop\BackEnd\Projeto - Passagens aéreas\obj\Debug\net7.0\Desafio (Passagens aéreas).AssemblyInfo.cs
+C:\Users\44850641822\Desktop\BackEnd\Projeto - Passagens aéreas\obj\Debug\net7.0\Desafio (Passagens aéreas).csproj.CoreCompileInputs.cache
+C:\Users\44850641822\Desktop\BackEnd\Projeto - Passagens aéreas\obj\Debug\net7.0\Desafio (Passagens aéreas).dll
+C:\Users\44850641822\Desktop\BackEnd\Projeto - Passagens aéreas\obj\Debug\net7.0\refint\Desafio (Passagens aéreas).dll
+C:\Users\44850641822\Desktop\BackEnd\Projeto - Passagens aéreas\obj\Debug\net7.0\Desafio (Passagens aéreas).pdb
+C:\Users\44850641822\Desktop\BackEnd\Projeto - Passagens aéreas\obj\Debug\net7.0\Desafio (Passagens aéreas).genruntimeconfig.cache
+C:\Users\44850641822\Desktop\BackEnd\Projeto - Passagens aéreas\obj\Debug\net7.0\ref\Desafio (Passagens aéreas).dll
