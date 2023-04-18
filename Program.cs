@@ -24,6 +24,10 @@
 // // // PARA ONDE VAI
 // // // DATA DO VOO
 
+string[] nome = new string[5];
+string[] embarque = new string[5];
+string[] desembarque = new string[5];
+string[] dataVoo = new string[5];
 
 static void BarraCarregamento(string texto, int quantidadePontinhos, int tempo)
 {
@@ -97,13 +101,99 @@ Console.WriteLine(@$"
                                     ------------------------------------------------------                
 ");
 
+int operacao = int.Parse(Console.ReadLine());
 
 
 
+switch (operacao)
+{
+    case 0:
+        Console.ForegroundColor = ConsoleColor.Yellow;
+        BarraCarregamento("Caregando", 10, 400);
+        Console.ResetColor();
+        Console.WriteLine(@$"
+        Voçê saiu do programa!
+        ");
+        Environment.Exit(0);
+        break;
+
+    case 1:
+        for (int i = 0; i < 2; i++)
+        {
+            Console.WriteLine(@$"
+            {i + 1}º Passageiro
+            ");
+
+            Console.WriteLine($"Digite seu nome: ");
+            nome[i] = Console.ReadLine();
+
+            Console.WriteLine($"Digite o local de embarque: ");
+            embarque[i] = Console.ReadLine();
+
+            Console.WriteLine($"Digite o local de desembarque: ");
+            desembarque[i] = Console.ReadLine();
+
+            Console.WriteLine($"Digite a data do voo( Exemplo: XX/XX/XXXX): ");
+            dataVoo[i] = Console.ReadLine();
+        }
+        break;
+
+    case 2:
+        break;
+
+}
+
+Console.WriteLine(@$"Gostaria de cadastrar uma nova passagem?
+
+Digite:
+
+S para sim 
+N para não
+");
+char questao = char.Parse(Console.ReadLine());
+
+for (int i = 0; i < 4; i++)
+
+    if (questao == 's')
+    {
+        Console.WriteLine($"Digite seu nome: ");
+        nome[i] = Console.ReadLine();
+
+        Console.WriteLine($"Digite o local de embarque: ");
+        embarque[i] = Console.ReadLine();
+
+        Console.WriteLine($"Digite o local de desembarque: ");
+        desembarque[i] = Console.ReadLine();
+
+        Console.WriteLine($"Digite a data do voo( Exemplo: XX/XX/XXXX): ");
+        dataVoo[i] = Console.ReadLine();
+
+        Console.WriteLine(@$"Passagensa cadastradas: 
+
+{i + 1}º Passageiro:
+
+Nome: {nome[i]}
+Local de embarque: {embarque[i]}
+Local de desembarque: {desembarque[i]}
+Data: {dataVoo[i]}
+");
+    }
 
 
+for (int i = 0; i < 3; i++)
 
+    if (operacao == 2)
+    {
+        Console.WriteLine(@$"Passagensa cadastradas: 
 
+{i + 1}º Passageiro:
+
+Nome: {nome[i]}
+Local de embarque: {embarque[i]}
+Local de desembarque: {desembarque[i]}
+Data: {dataVoo[i]}
+");
+    }
 
 
 
